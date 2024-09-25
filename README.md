@@ -1,5 +1,5 @@
-# FinOps Automations for N8N.io
+# FinOps Automations
 
-This repository consolidate Workflows that automate something to support #finops and #automation following best practices and finops-framework.
+This repository consolidate #automation to support #finops following best practices and the finops-framework.
 
 Make your PR to contribute!
